@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tasne\\source\\repos\\University.api\\University.api\\University.api.csproj": {}
+    "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\University.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tasne\\source\\repos\\University.api\\University.api\\University.api.csproj": {
+    "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\University.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tasne\\source\\repos\\University.api\\University.api\\University.api.csproj",
+        "projectUniqueName": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\University.api.csproj",
         "projectName": "University.api",
-        "projectPath": "C:\\Users\\tasne\\source\\repos\\University.api\\University.api\\University.api.csproj",
+        "projectPath": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\University.api.csproj",
         "packagesPath": "C:\\Users\\tasne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tasne\\source\\repos\\University.api\\University.api\\obj\\",
+        "outputPath": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\tasne\\source\\repos\\University.api\\University.core\\University.core.csproj": {
-                "projectPath": "C:\\Users\\tasne\\source\\repos\\University.api\\University.core\\University.core.csproj"
+              "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\University.core.csproj": {
+                "projectPath": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\University.core.csproj"
               }
             }
           }
@@ -114,14 +114,14 @@
         }
       }
     },
-    "C:\\Users\\tasne\\source\\repos\\University.api\\University.core\\University.core.csproj": {
+    "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\University.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tasne\\source\\repos\\University.api\\University.core\\University.core.csproj",
+        "projectUniqueName": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\University.core.csproj",
         "projectName": "University.core",
-        "projectPath": "C:\\Users\\tasne\\source\\repos\\University.api\\University.core\\University.core.csproj",
+        "projectPath": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\University.core.csproj",
         "packagesPath": "C:\\Users\\tasne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tasne\\source\\repos\\University.api\\University.core\\obj\\",
+        "outputPath": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -142,8 +142,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\tasne\\source\\repos\\University.api\\University.data\\University.data.csproj": {
-                "projectPath": "C:\\Users\\tasne\\source\\repos\\University.api\\University.data\\University.data.csproj"
+              "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\University.data.csproj": {
+                "projectPath": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\University.data.csproj"
               }
             }
           }
@@ -217,14 +217,14 @@
         }
       }
     },
-    "C:\\Users\\tasne\\source\\repos\\University.api\\University.data\\University.data.csproj": {
+    "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\University.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tasne\\source\\repos\\University.api\\University.data\\University.data.csproj",
+        "projectUniqueName": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\University.data.csproj",
         "projectName": "University.data",
-        "projectPath": "C:\\Users\\tasne\\source\\repos\\University.api\\University.data\\University.data.csproj",
+        "projectPath": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\University.data.csproj",
         "packagesPath": "C:\\Users\\tasne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tasne\\source\\repos\\University.api\\University.data\\obj\\",
+        "outputPath": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

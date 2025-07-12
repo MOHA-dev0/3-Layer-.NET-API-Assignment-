@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qwHI9YC5b4Q=",
+  "dgSpecHash": "PrZH1SXBKTw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tasne\\source\\repos\\University.api\\University.core\\University.core.csproj",
+  "projectFilePath": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\University.core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tasne\\.nuget\\packages\\autofac\\8.3.0\\autofac.8.3.0.nupkg.sha512",
     "C:\\Users\\tasne\\.nuget\\packages\\autofac.extensions.dependencyinjection\\10.0.0\\autofac.extensions.dependencyinjection.10.0.0.nupkg.sha512",

@@ -1,0 +1,15 @@
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\bin\Debug\net8.0\University.data.deps.json
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\bin\Debug\net8.0\University.data.runtimeconfig.json
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\bin\Debug\net8.0\University.data.dll
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\bin\Debug\net8.0\University.data.pdb
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\obj\Debug\net8.0\University.data.csproj.AssemblyReference.cache
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\obj\Debug\net8.0\University.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\obj\Debug\net8.0\University.data.AssemblyInfoInputs.cache
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\obj\Debug\net8.0\University.data.AssemblyInfo.cs
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\obj\Debug\net8.0\University.data.csproj.CoreCompileInputs.cache
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\obj\Debug\net8.0\University.data.sourcelink.json
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\obj\Debug\net8.0\University.data.dll
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\obj\Debug\net8.0\refint\University.data.dll
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\obj\Debug\net8.0\University.data.pdb
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\obj\Debug\net8.0\University.data.genruntimeconfig.cache
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.data\obj\Debug\net8.0\ref\University.data.dll

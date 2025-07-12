@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.core\\university.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|solutionrelative:university.core\\university.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "University.core",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\University.core.csproj",
+              "RelativeDocumentMoniker": "University.core\\University.core.csproj",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\University.core.csproj",
+              "RelativeToolTip": "University.core\\University.core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-12T15:16:38.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
