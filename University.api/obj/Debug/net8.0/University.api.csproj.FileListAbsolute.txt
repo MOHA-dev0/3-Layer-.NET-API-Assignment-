@@ -135,7 +135,6 @@ C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\University.api.AssemblyInfoInputs.cache
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\University.api.AssemblyInfo.cs
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\University.api.csproj.CoreCompileInputs.cache
-C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\University.api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\University.api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\University.api.sourcelink.json
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\rjimswa.dswa.cache.json
@@ -153,3 +152,6 @@ C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\University.api.pdb
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\University.api.genruntimeconfig.cache
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\ref\University.api.dll
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\bin\Debug\net8.0\Serilog.dll
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\University.api.MvcApplicationPartsAssemblyInfo.cs

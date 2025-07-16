@@ -1,5 +1,9 @@
-﻿using University.core.DOTs;
+﻿using Microsoft.Extensions.Logging;
+using Serilog.Core;
+using University.core.DOTs;
+using University.core.Exceptions;
 using University.core.Forms;
+using University.Core.Services;
 using University.data.Entites;
 using University.data.Repositories;
 
@@ -8,10 +12,12 @@ namespace University.core.Services
     public class StudentService : IStudentService
     {
         private readonly IStudentRepository _studentRepository;
+        private readonly ILogger<CourseService> _logger;
 
-        public StudentService(IStudentRepository studentRepository)
+        public StudentService(IStudentRepository studentRepository, ILogger<CourseService> logger)
         {
             _studentRepository = studentRepository;
+            _logger = logger;
         }
 
         public void Create(CreateStudentForm form)
@@ -22,12 +28,17 @@ namespace University.core.Services
             }
             if (string.IsNullOrWhiteSpace(form.Name))
             {
-                throw new ArgumentException("Name cannot be empty", nameof(form.Name));
+                throw new BusinessException("Name cannot be empty");
             }
             if (string.IsNullOrWhiteSpace(form.Email))
             {
-                throw new ArgumentException("Email cannot be empty", nameof(form.Email));
+                throw new BusinessException("Email cannot be empty");
             }
+
+            if(!form.Email.Contains("@"))
+                throw new BusinessException("Email must contain '@'");
+            
+
             var student = new Student()
             {
                 Name = form.Name,
@@ -71,7 +82,7 @@ namespace University.core.Services
             var student = _studentRepository.GetById(id);
             if (student == null)
             {
-                throw new ArgumentNullException(nameof(student));
+                throw new NotFoundException("Not Found Id");
             }
             var dto = new StudentDTO
             {
@@ -91,14 +102,14 @@ namespace University.core.Services
             }
             if (string.IsNullOrWhiteSpace(form.Name))
             {
-                throw new ArgumentException("Name cannot be empty", nameof(form.Name));
+                throw new BusinessException("Name cannot be empty");
             }
 
             var student = _studentRepository.GetById(id);
 
             if (student == null)
             {
-                throw new ArgumentNullException(nameof(student));
+                throw new NotFoundException("Student not found with the given ID.");
             }
             student.Name = form.Name;
 
