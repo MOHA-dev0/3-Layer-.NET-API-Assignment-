@@ -1,35 +1,43 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.Emit;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using University.data.Contexts.ClassMappings;
 using University.data.Entites;
+using University.Data.Context.ClassMappings;
 using University.Data.Contexts.ClassMappings;
+using University.Data.Entities.Identity;
 
-namespace University.Data.Contexts
+namespace University.Data.Context
 {
-    public class UniversityDbContext : DbContext
+    public class UniversityDbContext : IdentityDbContext<User,
+       Role,
+       int,
+       UserClaim,
+       UserRole,
+       UserLogin,
+       RoleClaim,
+       UserToken
+       >
     {
         public DbSet<Student> Students { get; set; }
         public DbSet<Course> Courses { get; set; }
 
+
+        public UniversityDbContext(DbContextOptions<UniversityDbContext> options)
+            : base(options)
+        {
+        }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder);
             modelBuilder.ApplyConfiguration(new StudentMapping());
             modelBuilder.ApplyConfiguration(new CourseMapping());
-
+            modelBuilder.ApplyConfiguration(new UserMapping());
+            modelBuilder.ApplyConfiguration(new RoleMapping());
+            modelBuilder.ApplyConfiguration(new RoleClaimMapping());
+            modelBuilder.ApplyConfiguration(new UserClaimMapping());
+            modelBuilder.ApplyConfiguration(new UserLoginMapping());
+            modelBuilder.ApplyConfiguration(new UserTokenMapping());
+            modelBuilder.ApplyConfiguration(new UserRoleMapping());
         }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("Server=localhost;Database=UniversityDB1;Trusted_Connection=True;TrustServerCertificate=True;");
-
-        }
-
-
     }
 }
