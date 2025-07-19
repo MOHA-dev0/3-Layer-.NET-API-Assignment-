@@ -1093,6 +1093,10 @@
           },
           "phoneConfirmed": {
             "type": "boolean"
+          },
+          "role": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

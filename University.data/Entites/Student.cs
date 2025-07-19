@@ -8,8 +8,9 @@
 
         public string Email { get; set; }
 
+
         public DateTime CreatedTime { get; internal set; }
         public DateTime LastUpdatedTime { get; internal set; }
-
+     
     }
 }

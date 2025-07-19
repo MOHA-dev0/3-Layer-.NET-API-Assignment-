@@ -73,8 +73,8 @@ namespace University.core.Services
                 Name = s.Name,
                 Email = s.Email
             }).ToList();
-            
-                return dtos; 
+
+            return dtos;
         }
 
         public StudentDTO GetById(int id)

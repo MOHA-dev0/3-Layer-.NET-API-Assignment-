@@ -25,7 +25,7 @@ namespace University.API.Helpers
             {
                 new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
                 new Claim(ClaimTypes.Email, user.Email ?? ""),
-                new Claim(ClaimTypes.Role, "Student"),
+                new Claim(ClaimTypes.Role, user.Role?? "Teacher"),
             };
 
             var tokenDescriptor = new SecurityTokenDescriptor

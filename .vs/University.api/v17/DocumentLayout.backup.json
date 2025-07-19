@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\modules\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\modules\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|solutionrelative:university.data\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\modules\\repositorymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\modules\\repositorymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|solutionrelative:university.data\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|solutionrelative:university.data\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.core\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|solutionrelative:university.core\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.core\\dots\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|solutionrelative:university.core\\dots\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -27,8 +31,64 @@
       "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\helpers\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\helpers\\logginghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\helpers\\logginghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.core\\dots\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|solutionrelative:university.core\\dots\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\configurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\configurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\contexts\\classmappings\\userrolemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|solutionrelative:university.data\\contexts\\classmappings\\userrolemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\identity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|solutionrelative:university.data\\identity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\contexts\\classmappings\\roleclaimmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|solutionrelative:university.data\\contexts\\classmappings\\roleclaimmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\contexts\\classmappings\\coursemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|solutionrelative:university.data\\contexts\\classmappings\\coursemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\identity\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|solutionrelative:university.data\\identity\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\identity\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|solutionrelative:university.data\\identity\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|solutionrelative:university.data\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\modules\\repositorymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\modules\\repositorymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\modules\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\modules\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,18 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|solutionrelative:university.core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\helpers\\logginghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\helpers\\logginghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\configurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|solutionrelative:university.api\\configurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|solutionrelative:university.data\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{145A6860-1A54-4BEB-9BAF-259C16A6414B}|University.api\\University.api.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.api\\university.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -65,14 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\migrations\\20250716223650_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|solutionrelative:university.data\\migrations\\20250716223650_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|solutionrelative:university.data\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.core\\dots\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|solutionrelative:university.core\\dots\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8C67B87-F176-4F2A-AFF6-D67EE1F6985B}|University.data\\University.data.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.data\\migrations\\20250716100917_addcourses.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,10 +137,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.core\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|solutionrelative:university.core\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|c:\\users\\tasne\\desktop\\3-layer-.net-api-assignment-\\university.core\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60D6F8EE-E24A-4353-89C4-F2216B826A09}|University.core\\University.core.csproj|solutionrelative:university.core\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,63 +146,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoggingHelper.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Helpers\\LoggingHelper.cs",
-              "RelativeDocumentMoniker": "University.api\\Helpers\\LoggingHelper.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Helpers\\LoggingHelper.cs",
-              "RelativeToolTip": "University.api\\Helpers\\LoggingHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Entites\\Student.cs",
+              "RelativeDocumentMoniker": "University.data\\Entites\\Student.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Entites\\Student.cs",
+              "RelativeToolTip": "University.data\\Entites\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T23:52:26.038Z",
+              "WhenOpened": "2025-07-18T19:17:29.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "JwtTokenHelper.cs",
               "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Helpers\\JwtTokenHelper.cs",
               "RelativeDocumentMoniker": "University.api\\Helpers\\JwtTokenHelper.cs",
               "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Helpers\\JwtTokenHelper.cs",
               "RelativeToolTip": "University.api\\Helpers\\JwtTokenHelper.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCgAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T23:49:40.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T23:49:40.981Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "University.api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "University.api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "University.core\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\Services\\StudentService.cs",
+              "RelativeToolTip": "University.core\\Services\\StudentService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T23:48:41.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T22:14:04.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServiceModule.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Modules\\ServiceModule.cs",
-              "RelativeDocumentMoniker": "University.api\\Modules\\ServiceModule.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Modules\\ServiceModule.cs",
-              "RelativeToolTip": "University.api\\Modules\\ServiceModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T23:48:01.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\appsettings.json",
               "RelativeDocumentMoniker": "University.api\\appsettings.json",
@@ -174,129 +195,47 @@
               "RelativeToolTip": "University.api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-16T23:35:17.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Program.cs",
-              "RelativeDocumentMoniker": "University.api\\Program.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Program.cs",
-              "RelativeToolTip": "University.api\\Program.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAgwHQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:30:52.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T23:35:17.544Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RepositoryModule.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Modules\\RepositoryModule.cs",
-              "RelativeDocumentMoniker": "University.api\\Modules\\RepositoryModule.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Modules\\RepositoryModule.cs",
-              "RelativeToolTip": "University.api\\Modules\\RepositoryModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "University.data\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "University.data\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T23:37:49.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "University.api\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "University.api\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T23:54:22.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "University.api\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "University.api\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T23:54:23.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "JwtSettings.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Configurations\\JwtSettings.cs",
-              "RelativeDocumentMoniker": "University.api\\Configurations\\JwtSettings.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Configurations\\JwtSettings.cs",
-              "RelativeToolTip": "University.api\\Configurations\\JwtSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T23:47:33.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T22:35:43.764Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "University.core\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\Services\\AuthService.cs",
-              "RelativeToolTip": "University.core\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "University.api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "University.api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:14:02.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T23:48:41.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "University.api",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\University.api.csproj",
-              "RelativeDocumentMoniker": "University.api\\University.api.csproj",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\University.api.csproj",
-              "RelativeToolTip": "University.api\\University.api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-16T23:20:17.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20250716223650_AddIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Migrations\\20250716223650_AddIdentity.cs",
-              "RelativeDocumentMoniker": "University.data\\Migrations\\20250716223650_AddIdentity.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Migrations\\20250716223650_AddIdentity.cs",
-              "RelativeToolTip": "University.data\\Migrations\\20250716223650_AddIdentity.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\DOTs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "University.core\\DOTs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\DOTs\\StudentDTO.cs",
+              "RelativeToolTip": "University.core\\DOTs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:39:46.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T19:00:12.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UniversityDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Migrations\\UniversityDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "University.data\\Migrations\\UniversityDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Migrations\\UniversityDbContextModelSnapshot.cs",
-              "RelativeToolTip": "University.data\\Migrations\\UniversityDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:30:33.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "CourseRepository.cs",
               "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Repositories\\CourseRepository.cs",
               "RelativeDocumentMoniker": "University.data\\Repositories\\CourseRepository.cs",
@@ -309,20 +248,235 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Repositories\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "University.data\\Repositories\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Repositories\\StudentRepository.cs",
-              "RelativeToolTip": "University.data\\Repositories\\StudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "LoggingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Helpers\\LoggingHelper.cs",
+              "RelativeDocumentMoniker": "University.api\\Helpers\\LoggingHelper.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Helpers\\LoggingHelper.cs",
+              "RelativeToolTip": "University.api\\Helpers\\LoggingHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:35:43.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T23:52:26.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Configurations\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "University.api\\Configurations\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Configurations\\JwtSettings.cs",
+              "RelativeToolTip": "University.api\\Configurations\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T23:47:33.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Program.cs",
+              "RelativeDocumentMoniker": "University.api\\Program.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Program.cs",
+              "RelativeToolTip": "University.api\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:30:52.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\DOTs\\UserDto.cs",
+              "RelativeDocumentMoniker": "University.core\\DOTs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\DOTs\\UserDto.cs",
+              "RelativeToolTip": "University.core\\DOTs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:15:52.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRoleMapping.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Contexts\\ClassMappings\\UserRoleMapping.cs",
+              "RelativeDocumentMoniker": "University.data\\Contexts\\ClassMappings\\UserRoleMapping.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Contexts\\ClassMappings\\UserRoleMapping.cs",
+              "RelativeToolTip": "University.data\\Contexts\\ClassMappings\\UserRoleMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:19:30.599Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Identity\\UserRole.cs",
+              "RelativeDocumentMoniker": "University.data\\Identity\\UserRole.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Identity\\UserRole.cs",
+              "RelativeToolTip": "University.data\\Identity\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:19:39.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserToken.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Identity\\UserToken.cs",
+              "RelativeDocumentMoniker": "University.data\\Identity\\UserToken.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Identity\\UserToken.cs",
+              "RelativeToolTip": "University.data\\Identity\\UserToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:19:43.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Identity\\UserLogin.cs",
+              "RelativeDocumentMoniker": "University.data\\Identity\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Identity\\UserLogin.cs",
+              "RelativeToolTip": "University.data\\Identity\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:19:44.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseMapping.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Contexts\\ClassMappings\\CourseMapping.cs",
+              "RelativeDocumentMoniker": "University.data\\Contexts\\ClassMappings\\CourseMapping.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Contexts\\ClassMappings\\CourseMapping.cs",
+              "RelativeToolTip": "University.data\\Contexts\\ClassMappings\\CourseMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:19:51.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoleClaimMapping.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Contexts\\ClassMappings\\RoleClaimMapping.cs",
+              "RelativeDocumentMoniker": "University.data\\Contexts\\ClassMappings\\RoleClaimMapping.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Contexts\\ClassMappings\\RoleClaimMapping.cs",
+              "RelativeToolTip": "University.data\\Contexts\\ClassMappings\\RoleClaimMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:19:51.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Identity\\Role.cs",
+              "RelativeDocumentMoniker": "University.data\\Identity\\Role.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Identity\\Role.cs",
+              "RelativeToolTip": "University.data\\Identity\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:19:37.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceModule.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Modules\\ServiceModule.cs",
+              "RelativeDocumentMoniker": "University.api\\Modules\\ServiceModule.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Modules\\ServiceModule.cs",
+              "RelativeToolTip": "University.api\\Modules\\ServiceModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T23:48:01.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RepositoryModule.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Modules\\RepositoryModule.cs",
+              "RelativeDocumentMoniker": "University.api\\Modules\\RepositoryModule.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Modules\\RepositoryModule.cs",
+              "RelativeToolTip": "University.api\\Modules\\RepositoryModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T23:37:49.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "University.api\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "University.api\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T23:54:22.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "University.api\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "University.api\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T23:54:23.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "University.core\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\Services\\AuthService.cs",
+              "RelativeToolTip": "University.core\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:14:02.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "University.api.csproj",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\University.api.csproj",
+              "RelativeDocumentMoniker": "University.api\\University.api.csproj",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.api\\University.api.csproj",
+              "RelativeToolTip": "University.api\\University.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T23:20:17.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250716223650_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Migrations\\20250716223650_AddIdentity.cs",
+              "RelativeDocumentMoniker": "University.data\\Migrations\\20250716223650_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Migrations\\20250716223650_AddIdentity.cs",
+              "RelativeToolTip": "University.data\\Migrations\\20250716223650_AddIdentity.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:39:46.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UniversityDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Migrations\\UniversityDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "University.data\\Migrations\\UniversityDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Migrations\\UniversityDbContextModelSnapshot.cs",
+              "RelativeToolTip": "University.data\\Migrations\\UniversityDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:30:33.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "UniversityDBContext.cs",
               "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Contexts\\UniversityDBContext.cs",
               "RelativeDocumentMoniker": "University.data\\Contexts\\UniversityDBContext.cs",
@@ -330,12 +484,11 @@
               "RelativeToolTip": "University.data\\Contexts\\UniversityDBContext.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:23:30.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T22:23:30.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "20250712151858_InitialCreate.Designer.cs",
               "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Migrations\\20250712151858_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "University.data\\Migrations\\20250712151858_InitialCreate.Designer.cs",
@@ -343,12 +496,11 @@
               "RelativeToolTip": "University.data\\Migrations\\20250712151858_InitialCreate.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:28:27.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T22:28:27.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "20250716100917_AddCourses.Designer.cs",
               "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Migrations\\20250716100917_AddCourses.Designer.cs",
               "RelativeDocumentMoniker": "University.data\\Migrations\\20250716100917_AddCourses.Designer.cs",
@@ -356,25 +508,11 @@
               "RelativeToolTip": "University.data\\Migrations\\20250716100917_AddCourses.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:30:08.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T22:30:08.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\DOTs\\UserDto.cs",
-              "RelativeDocumentMoniker": "University.core\\DOTs\\UserDto.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\DOTs\\UserDto.cs",
-              "RelativeToolTip": "University.core\\DOTs\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:15:52.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "20250716100917_AddCourses.cs",
               "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.data\\Migrations\\20250716100917_AddCourses.cs",
               "RelativeDocumentMoniker": "University.data\\Migrations\\20250716100917_AddCourses.cs",
@@ -382,12 +520,11 @@
               "RelativeToolTip": "University.data\\Migrations\\20250716100917_AddCourses.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:30:29.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T22:30:29.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "LoggingHelper.cs",
               "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\Helpers\\LoggingHelper.cs",
               "RelativeDocumentMoniker": "University.core\\Helpers\\LoggingHelper.cs",
@@ -395,12 +532,11 @@
               "RelativeToolTip": "University.core\\Helpers\\LoggingHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:17:34.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T22:17:34.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "RegisterForm.cs",
               "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\Forms\\RegisterForm.cs",
               "RelativeDocumentMoniker": "University.core\\Forms\\RegisterForm.cs",
@@ -408,12 +544,11 @@
               "RelativeToolTip": "University.core\\Forms\\RegisterForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:16:51.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T22:16:51.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\Forms\\LoginForm.cs",
               "RelativeDocumentMoniker": "University.core\\Forms\\LoginForm.cs",
@@ -421,21 +556,7 @@
               "RelativeToolTip": "University.core\\Forms\\LoginForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:16:33.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "University.core\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\tasne\\Desktop\\3-Layer-.NET-API-Assignment-\\University.core\\Services\\StudentService.cs",
-              "RelativeToolTip": "University.core\\Services\\StudentService.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:14:04.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T22:16:33.53Z"
             }
           ]
         }
