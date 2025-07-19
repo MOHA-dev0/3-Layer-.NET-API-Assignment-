@@ -221,6 +221,7 @@ const Students: React.FC = () => {
         deleteText={TEXT.CONFIRM_DELETE_TEXT}
         cancelText={TEXT.CONFIRM_CANCEL_TEXT}
         imageSrc={imageXmark}
+        width={464}
       />
     </div>
   );
