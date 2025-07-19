@@ -10,7 +10,7 @@ namespace University.Data.Context.ClassMappings
         public void Configure(EntityTypeBuilder<UserRole> builder)
         {
             builder.ToTable("UserRoles");
-            builder.HasKey(t => t.UserId);
+            builder.HasKey(ur => new { ur.UserId, ur.RoleId });
         }
     }
 }

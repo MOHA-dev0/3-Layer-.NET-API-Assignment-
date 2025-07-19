@@ -1,0 +1,83 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 464px;
+  width: 356px;
+}
+
+.modal {
+  border-radius: 10px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  text-align: center;
+
+  p:first-of-type {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #001e33;
+    margin: 0;
+  }
+
+  p:last-of-type {
+    color: #747a8b;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    margin: 0;
+    min-height: 20px;
+  }
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 24px;
+
+  .deleteButton {
+    flex: 1;
+    height: 40px;
+    border: none;
+    border-radius: 8px;
+    background-color: #fbeaea;
+    color: #d62e29;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+    line-height: 40px;
+    text-align: center;
+    transition: none;
+    text-decoration: none;
+
+    &:hover {
+      background-color: #fbeaea !important;
+      box-shadow: none !important;
+      color: #d62e29 !important;
+    }
+  }
+
+  .cancelButton {
+    flex: 1;
+    height: 40px;
+    border: none;
+    border-radius: 8px;
+    background: #f1f2f3;
+    color: #747a8b;
+    font-size: 12px;
+    font-weight: 500;
+    transition: none;
+    &:hover {
+      background: #f1f2f3 !important;
+      color: #747a8b !important;
+      box-shadow: none !important;
+    }
+  }
+}
