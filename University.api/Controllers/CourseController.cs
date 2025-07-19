@@ -1,4 +1,5 @@
 ﻿using AutoWrapper.Wrappers;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using System.Net;
@@ -10,6 +11,7 @@ using University.Core.Services;
 
 namespace University.API.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     [TypeFilter(typeof(ApiExceptionFilter))]
@@ -23,6 +25,7 @@ namespace University.API.Controllers
         }
 
         [HttpGet("{id}")]
+        [Authorize(Roles = "Student")]
         [ProducesResponseType(typeof(CourseDTO), StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
@@ -33,6 +36,7 @@ namespace University.API.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Teacher")]
         [ProducesResponseType(typeof(List<CourseDTO>), StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public ApiResponse GetAll()
@@ -42,6 +46,7 @@ namespace University.API.Controllers
         }
 
         [HttpPost]
+
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]

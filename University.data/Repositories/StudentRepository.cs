@@ -1,5 +1,5 @@
 ﻿using University.data.Entites;
-using University.Data.Contexts;
+using University.Data.Context;
 
 namespace University.data.Repositories
 {

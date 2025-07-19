@@ -145,7 +145,6 @@ C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\Universi.170BFE9F.Up2Date
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\University.api.dll
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\refint\University.api.dll
@@ -155,3 +154,10 @@ C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\bin\Debug\net8.0\Serilog.dll
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\bin\Debug\net8.0\Serilog.Sinks.File.dll
 C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\University.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tasne\Desktop\3-Layer-.NET-API-Assignment-\University.api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
