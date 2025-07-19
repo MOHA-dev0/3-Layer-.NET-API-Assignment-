@@ -10,6 +10,7 @@ interface ConfirmProps {
   deleteText?: string;
   cancelText?: string;
   imageSrc?: string;
+  width?: number;
 }
 
 function Confirm({
@@ -21,13 +22,14 @@ function Confirm({
   deleteText = "Delete",
   cancelText = "Cancel",
   imageSrc,
+  width,
 }: ConfirmProps) {
   return (
     <div className={styles.wrapper}>
       <Modal
         centered
         open={open}
-        width={464}
+        width={width}
         footer={null}
         closable={false}
         className={styles.modal}
